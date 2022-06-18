@@ -1,13 +1,19 @@
 # parser-test
 
-Books:
+Install:
+
 ```
 npm i
+```
+
+Parse books:
+
+```
 node books.js
 ```
 
-Quotes:
+Parse quotes:
+
 ```
-npm i
 node quotes.js
 ```
